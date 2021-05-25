@@ -46,6 +46,7 @@ module Snapshot
         return ["-destination 'platform=macOS'"] if devices.first.to_s =~ /^Mac/
 
         os = devices.first.to_s =~ /^Apple TV/ ? "tvOS" : "iOS"
+        os = devices.first.to_s =~ /^Apple Watch/ ? "watchOS" : "iOS"
 
         os_version = Snapshot.config[:ios_version] || Snapshot::LatestOsVersion.version(os)
 
