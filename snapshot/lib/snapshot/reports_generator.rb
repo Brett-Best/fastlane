@@ -128,7 +128,21 @@ module Snapshot
         'Apple TV 4K (at 1080p)' => 'Apple TV 4K (at 1080p)',
         'Apple TV 4K' => 'Apple TV 4K',
         'Apple TV' => 'Apple TV',
-        'Mac' => 'Mac'
+        'Mac' => 'Mac',
+        'Apple Watch - 38mm' => 'Apple Watch - 38mm',
+        'Apple Watch - 42mm' => 'Apple Watch - 42mm',
+        'Apple Watch Series 2 - 38mm' => 'Apple Watch Series 2 - 38mm',
+        'Apple Watch Series 2 - 42mm' => 'Apple Watch Series 2 - 42mm',
+        'Apple Watch Series 3 - 38mm' => 'Apple Watch Series 3 - 38mm',
+        'Apple Watch Series 3 - 42mm' => 'Apple Watch Series 3 - 42mm',
+        'Apple Watch Series 4 - 40mm' => 'Apple Watch Series 4 - 40mm',
+        'Apple Watch Series 4 - 44mm' => 'Apple Watch Series 4 - 44mm',
+        'Apple Watch Series 5 - 40mm' => 'Apple Watch Series 5 - 40mm',
+        'Apple Watch Series 5 - 44mm' => 'Apple Watch Series 5 - 44mm',
+        'Apple Watch SE - 40mm' => 'Apple Watch SE - 40mm',
+        'Apple Watch SE - 44mm' => 'Apple Watch SE - 44mm',
+        'Apple Watch Series 6 - 40mm' => 'Apple Watch Series 6 - 40mm',
+        'Apple Watch Series 6 - 44mm' => 'Apple Watch Series 6 - 44mm'
       }
     end
 
